@@ -7,8 +7,7 @@ To play this video game, you must have python installed on your system. Ensure y
 
 Next, you will want to download the game files which can be found in this same repository, in a separate folder to this readme. A direct link to this folder can be found here; [Cornelius V. Irus's Haunted Hospital](TextBasedGame.py). You are going to want to click the green 'Code' button on the top right, then 'Download ZIP'. Extract the ZIP file in an easy to find place on your computer, like your desktop. 
 
-You then 
-
+Then,
 *On Windows* Open the extracted folder, and in the address bar, type 'cmd', and hit enter. This opens a terminal pointed at this folder. 
 *On MacOS* Right click the folder the choose 'New Terminal at Folder', or use 'cd' followed by the folder path. 
 

@@ -5,7 +5,7 @@ I wrote this in Python within the IDE PyCharm. I used an inventory system, where
 # How To Play
 To play this video game, you must have python installed on your system. Ensure you have python installed by opening a terminal and typing 'python --version' or 'python3 --version'. If it shows a version number you are good to go, if not, download Python from python.org and install it.
 
-Next, you will want to download the game files which can be found in this same repository, in a separate folder to this readme. A direct link to this folder can be found here; [Cornelius V. Irus's Haunted Hospital](TextBasedGame.py). You are going to want to click the green 'Code' button on the top right, then 'Download ZIP'. Extract the ZIP file in an easy to find place on your computer, like your desktop. 
+Next, you will want to download the game files which can be found in this same repository, in a separate folder to this readme. A direct link to this folder can be found here; [Cornelius V. Irus's Haunted Hospital](TextBasedGame.py). You are going to want to click the green "code" button or the button with three dots on the top right, then 'Download ZIP'. Extract the ZIP file in an easy to find place on your computer, like your desktop. 
 
 Then,
 *On Windows* Open the extracted folder, and in the address bar, type 'cmd', and hit enter. This opens a terminal pointed at this folder. 
